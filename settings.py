@@ -1,0 +1,10 @@
+# Constants
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+BALL_RADIUS = 20
+GRAVITY = 0.5
+FPS = 60
+
+# Colors
+WHITE = (255, 255, 255)
+BLUE = (0, 0, 255)
